@@ -1,0 +1,58 @@
+/* navbar */
+.navbar ul li {
+    font-size: 1rem;
+    font-size: arial;
+}
+.navbar ul li a {
+    padding: 3px 9px;
+}
+/* home */
+#home {
+    height: 830px;
+
+}
+.headings {
+    font-size: 1.4rem;
+
+}
+.paragraf {
+    font-size: 1.5rem;
+    text-align: center;
+    padding: 5px;
+    margin-top: 0px;
+}
+.btn {
+    margin-top: 9px;
+}
+
+/* about */
+#pic img {
+    width: 250px;
+    height: 159px;
+}
+
+/* portfolio */
+.gallery img {
+    width: 300px;
+    height: 200px;
+    padding: 5.5px;
+
+}
+
+/* skills */
+.box {
+    margin-left: 70px;
+}
+
+/* contact */
+.input {
+    width: 65%;
+    padding: 10px;
+}
+#msg {
+    padding: 15px;
+    height: 150px;
+}
+.ftr {
+    font-size: 2rem;
+}
